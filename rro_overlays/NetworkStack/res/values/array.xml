@@ -15,8 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-	<string name="config_captive_portal_http_url">http://fw.casscoenterprises.com/gen_204/</string>
-	<string name="config_captive_portal_https_url">https://fw.casscoenterprises.com/gen_204/</string>
 	<string-array name="config_captive_portal_http_urls">
 	    <item>http://conntest.yxa.at/204.php</item>
 	    <item>http://httpstat.us/204</item>
