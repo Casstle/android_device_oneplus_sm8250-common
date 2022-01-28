@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.casstle.networkstack.rro_overlay">
+
+    <overlay android:targetPackage="com.android.networkstack" android:priority="1"/>
+
+</manifest>
